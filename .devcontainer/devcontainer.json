@@ -2,7 +2,7 @@
   "name": "PHP + Apache",
   "image": "mcr.microsoft.com/vscode/devcontainers/php:8.2-apache",
   "forwardPorts": [80],
-  "postCreateCommand": "cp index.php /var/www/html/",
+  "postCreateCommand": "cp index.html /var/www/html/",
   "customizations": {
     "vscode": {
       "extensions": [
