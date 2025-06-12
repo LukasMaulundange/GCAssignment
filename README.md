@@ -7,7 +7,7 @@ A simple PHP + HTML app to test rates and availability from Gondwana's API.
 - Dynamic form with date and age inputs
 - Sends POST request to backend
 - Calls Gondwana API using test Unit Type IDs
-- Displays rate, availability, and full JSON response which I've hidden from users.
+- Displays Unit Name, Date Range, rate, availability, and full JSON response which I've hidden from users.
 
 ## How to Run
 
