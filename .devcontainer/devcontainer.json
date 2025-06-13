@@ -3,6 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/php:latest",
   "forwardPorts": [8000],
   "postCreateCommand": "php -S 0.0.0.0:8000 -t .",
+  "postStartCommand": "php -S 0.0.0.0:8000 -t .",
   "customizations": {
     "vscode": {
       "settings": {
